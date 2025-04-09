@@ -12,9 +12,9 @@ For a simple 3D FPS game and a student project, using **Agile** as the developme
 
 | Member | Responsibilities |
 |--------|------------------|
-| 👤 Member A | Character & Story Design, Demo Video |
-| 👤 Member B | UI, Animation, Audio, Map Design |
-| 👤 Member C | Enemy Design, Level Design |
+| Morty (p2321396/ COMP) | Character & Story Design, Demo Video |
+| Ashley(p2321339/ COMP) | UI, Animation, Audio, Map Design |
+| William(p2320973/COMP) | Enemy Design, Level Design |
 
 ---
 
