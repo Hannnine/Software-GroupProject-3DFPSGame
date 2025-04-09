@@ -22,6 +22,11 @@ For a simple 3D FPS game and a student project, using **Agile** as the developme
 - April 18th to April 22th:Test the product
 
 ---
+##  Schedule Chart
+
+![Schedule Chart](Documentation/未命名绘图.drawio)
+
+---
 
 # Graphical Abstract
 
