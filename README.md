@@ -8,13 +8,18 @@ For a simple 3D FPS game and a student project, using **Agile** as the developme
 
 ---
 
-# Team & Responsibilities
+# Development Plan  
+### Team Roles  
+| Name  | Role      | Responsibilities |  
+|-------|-----------|------------------|  
+| Morty | Planner  | Analysis the requirement,observe the market,plan the prototyping|  
+| Ashley| Programmer |Write the codes and create the products and test the products|  
+|William| Designer |Design 2D/3D, design the sound ,design the photoshop|
 
-| Member | Responsibilities |
-|--------|------------------|
-| Morty (p2321396/ COMP) | Character & Story Design, Demo Video |
-| Ashley(p2321339/ COMP) | UI, Animation, Audio, 3D Graphics, Documentation |
-| William(p2320973/COMP) | Enemy Design, Level Design, Development Schedule |
+# Schedule  
+- April 3th to April 10th: Confirm the requirement of the market  
+- April 10th to April 18th:Write the codes and prototyping
+- April 18th to April 22th:Test the product
 
 ---
 
