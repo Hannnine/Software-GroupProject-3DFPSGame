@@ -12,9 +12,9 @@ For a simple 3D FPS game and a student project, using **Agile** as the developme
 ### Team Roles  
 | Name  | Responsibilities |  
 |-------|------------------|  
-| Morty |Character,Story Design,Demo Video |  
-| Ashley|UI,Animation,Audio,Map Design|  
-|William|Enemy Design,Level Design|
+| Morty(p2321396/COMP)|Character,Story Design,Demo Video |  
+| Ashley(p2321339/COMP)|UI,Animation,Audio,Map Design|  
+|William(p2320973/COMP)|Enemy Design,Level Design|
 
 # Schedule  
 - April 3th to April 10th: Confirm the requirement of the market  
