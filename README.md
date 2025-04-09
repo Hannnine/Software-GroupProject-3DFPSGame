@@ -24,7 +24,7 @@ For a simple 3D FPS game and a student project, using **Agile** as the developme
 ---
 ##  Schedule Chart
 
-![Schedule Chart](Documentation/未命名绘图.drawio)
+![Schedule Chart](Documentation/schedule.drawio.png)
 
 ---
 
