@@ -41,3 +41,18 @@ This diagram showcases the internal structure and components of the game. It out
 
 ---
 
+## 3. Use Case Diagram
+
+The use case diagram summarizes the scenarios that players may encounter. These are arranged in a sequence consistent with the flow chart mentioned above.
+
+![Use Case Diagram](Documentation/UseCase.drawio.png)
+
+---
+
+## 4. Sequence Diagram
+
+This diagram illustrates the interactions between core components in detail, providing a clear view of the implementation logic and process flow.
+
+![Sequence Diagram](Documentation/Sequence.drawio.png)
+
+---
