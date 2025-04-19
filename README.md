@@ -27,11 +27,18 @@ For a simple 3D FPS game and a student project, using **Agile** as the developme
 ![Schedule Chart](Documentation/schedule.drawio.png)
 
 ---
+
+# Commits Descriptions
+
+### on Apr 9, 2025
 | Commits | Detail |
 |----------|---------|
 | Initial commit | Init |
 | init a group project base on Unity | Init Unity group project |
 | load Arts resources from Unity Store | Load Art resource |
+### on Apr 9, 2025
+| Commits | Detail |
+|----------|---------|
 | Upload Flow Chart & Structure diagram | Documentation |
 | README.md Edit | Documentation Edit |
 | Update README.md | Documentation Update |
@@ -39,20 +46,22 @@ For a simple 3D FPS game and a student project, using **Agile** as the developme
 | finish some basic scene loading | Add EnterScence |
 | Merge pull request #1 from YuanAshley/main | Merge |
 | Update README.md | Team & Responsibility Update, Add Schedule |
-| Update README.md | Empty |
 | Update README.md | Team & Responsibility Update |
-| Update README.md | Team & Responsibility Update |
-| 已添加 未命名绘图.drawio | Upload Schedule Timeline Graphic |
+| Upload new.drawio | Upload Schedule Timeline Graphic |
 | Update README.md | Add Schedule Timeline Graphic |
 | Update README.md | Schedule Timeline Graphic Update |
 | schedule.drawio | Schedule Timeline Graphic Update |
-| 已添加 schedule.drawio.png | Re-upload Schedule Timeline |
+| Upload schedule.drawio.png | Re-upload Schedule Timeline |
+### on Apr 10, 2025
+| Commits | Detail |
+|----------|---------|
 | Documentation Update | Upload Sequence diagram & Use case diagram, README.md Update |
 | 3D & UI init | Prefabs Folder init |
 | Merge pull request Hannnine#2 from YuanAshley/main | Merge |
 | Update schedule.drawio.png | Schedule Timeline Graphic Update |
-| Update schedule.drawio.png | Schedule Timeline Graphic Update |
-| Update schedule.drawio.png | Schedule Timeline Graphic Update |
+### on Apr 12, 2025
+| Commits | Detail |
+|----------|---------|
 | finished the prefab of 'player' and built the basic scene of easy model | Upload some Gameplay files of Prefabs, Basic Level Design (EasyFLoor01) & Scripts |
 | merge others | Merge |
 | Prefabs | Finish 3D&UI of Prefabs |
@@ -63,10 +72,19 @@ For a simple 3D FPS game and a student project, using **Agile** as the developme
 | Merge pull request Hannnine#5 from YuanAshley/main | Merge |
 | finishe all the scene of different Level | Finish Level Design |
 | merge commit | Merge |
+###  on Apr 13, 2025
+| Commits | Detail |
+|----------|---------|
 | Add plugins and finished the pickup scripts |  |
+### on Apr 14, 2025
+| Commits | Detail |
+|----------|---------|
 | finished all this Project |  |
 | build the environment and release the game |  |
-| Update README.md| Add Commits Detail Table|
+### on Apr 18, 2025
+| Commits | Detail |
+|----------|---------|
+| Update README.md| Add Commits Descriptions Table|
 ---
 
 # Graphical Abstract
