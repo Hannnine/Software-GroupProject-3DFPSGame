@@ -16,6 +16,9 @@ For a simple 3D FPS game and a student project, using **Agile** as the developme
 | Ashley(p2321339/COMP)|UI,Animation,Audio,Map Design|  
 |William(p2320973/COMP)|Enemy Design,Level Design|
 
+# The Introduction Video:
+This is the [Introduction Video](https://youtu.be/oaDrheXLCi4) in YouTube.
+
 # Schedule  
 - April 3th to April 10th: Confirm the requirement of the market  
 - April 10th to April 18th:Write the codes and prototyping
@@ -85,6 +88,10 @@ For a simple 3D FPS game and a student project, using **Agile** as the developme
 | Commits | Detail |
 |----------|---------|
 | Update README.md| Add Commits Descriptions Table|
+### on Apr 21, 2025
+| Commits | Detail |
+|----------|---------|
+| Update README.md| Add Video links and plugin references |
 ---
 
 # Graphical Abstract
@@ -123,5 +130,17 @@ The use case diagram summarizes the scenarios that players may encounter. These 
 This diagram illustrates the interactions between core components in detail, providing a clear view of the implementation logic and process flow.
 
 ![Sequence Diagram](Documentation/Sequence.drawio.png)
+
+---
+
+# The plugins
+This is the whole plugins and references which are used in game but not built by our members:
+| Plugin | Author |
+|----------|---------|
+| Unity Input Sytem | @Unity Technologies |
+| NodeCanvas | @Paradoxnotion|
+| Low-Poly Medieval Market | @VanillaArt |
+| Low_Poly Nature | @Oode Studios |
+| Unity Learn - FPS Microgame - URP (Art material) | @Unity Technologies |
 
 ---
